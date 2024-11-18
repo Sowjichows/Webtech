@@ -1,4 +1,4 @@
-Introduction to React Native
+**Introduction to React Native**
 React Native is an open-source framework developed by Facebook that allows developers to
 create mobile applications using JavaScript and React. Its primary advantage is the ability
 to develop apps for both iOS and Android platforms from a single codebase, significantly
